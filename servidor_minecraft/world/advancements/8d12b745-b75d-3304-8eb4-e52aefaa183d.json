@@ -415,6 +415,8 @@
       "cooked_beef": "2025-08-23 23:32:48 +0000",
       "pumpkin_pie": "2025-08-24 00:13:59 +0000",
       "bread": "2025-08-23 23:20:30 +0000",
+      "rotten_flesh": "2025-08-24 14:41:12 +0000",
+      "glow_berries": "2025-08-24 14:45:50 +0000",
       "cooked_rabbit": "2025-08-24 00:14:45 +0000"
     },
     "done": false
@@ -2186,6 +2188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-24 14:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 14:32:59 +0000"
@@ -2282,6 +2290,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 14:44:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-08-24 14:21:55 +0000"
@@ -2329,6 +2343,12 @@
       "minecraft:cow": "2025-08-24 14:05:50 +0000"
     },
     "done": false
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-08-24 14:40:02 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
@@ -2411,6 +2431,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 14:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-24 14:38:36 +0000"
     },
     "done": true
   },

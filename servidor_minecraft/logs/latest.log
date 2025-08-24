@@ -1288,3 +1288,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [24Aug2025 14:37:06.933] [Worker-Main-49/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
 [24Aug2025 14:37:06.934] [Worker-Main-49/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
 [24Aug2025 14:37:06.934] [Worker-Main-49/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[24Aug2025 14:40:02.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has made the advancement [Call For Adventure]
+[24Aug2025 14:47:44.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas3122 lost connection: Disconnected
+[24Aug2025 14:47:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 left the game
+[24Aug2025 14:47:48.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 123 lost connection: Disconnected
+[24Aug2025 14:47:48.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 left the game
+[24Aug2025 14:54:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Aug2025 14:54:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Aug2025 14:54:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Aug2025 14:54:54.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Aug2025 14:54:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Aug2025 14:54:56.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Aug2025 14:54:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Aug2025 14:54:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Aug2025 14:54:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Aug2025 14:54:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Aug2025 14:54:56.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Aug2025 14:54:56.924] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Aug2025 14:54:56.926] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24Aug2025 14:54:56.928] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[24Aug2025 14:54:56.929] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
