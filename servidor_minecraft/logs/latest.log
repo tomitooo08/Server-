@@ -213,3 +213,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [24Aug2025 01:04:48.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 left the game
 [24Aug2025 01:04:48.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 was shot by Skeleton
 [24Aug2025 01:06:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <123> ya?
+[24Aug2025 01:06:19.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 fell from a high place
+[24Aug2025 01:06:52.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17, l='ServerLevel[world]', x=-261.70, y=61.05, z=-316.99] died, message: 'Fisherman drowned'
+[24Aug2025 01:08:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 fell from a high place
+[24Aug2025 01:14:59.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/16, l='ServerLevel[world]', x=-258.31, y=61.05, z=-317.30] died, message: 'Fisherman drowned'
