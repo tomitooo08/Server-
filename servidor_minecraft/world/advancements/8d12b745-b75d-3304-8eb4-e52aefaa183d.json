@@ -787,6 +787,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-24 13:57:12 +0000",
       "minecraft:spider": "2025-08-23 23:36:46 +0000",
       "minecraft:stray": "2025-08-23 23:28:53 +0000",
       "minecraft:zombie": "2025-08-24 00:53:46 +0000"
@@ -2158,6 +2159,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-08-24 01:04:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-08-24 14:03:21 +0000"
     },
     "done": true
   },

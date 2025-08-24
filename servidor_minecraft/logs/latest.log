@@ -1144,3 +1144,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [24Aug2025 13:53:47.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomas3122[/127.209.36.91:41937] logged in with entity id 440 at (-998.2914978429477, -34.2032643993313, 311.05610686037227)
 [24Aug2025 13:53:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 joined the game
 [24Aug2025 13:55:14.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 was shot by Skeleton
+[24Aug2025 13:59:09.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 123[/127.97.66.83:34307] logged in with entity id 1760 at (-996.42650564033, 74.0, 345.1904027167522)
+[24Aug2025 13:59:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 joined the game
+[24Aug2025 13:59:23.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 has made the advancement [Alex's Mobs]
+[24Aug2025 13:59:58.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:58.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:58.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:58.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 13:59:59.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:01.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:01.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:01.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:01.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.352] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:04.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:05.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:05.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:05.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:05.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:00:05.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Aug2025 14:02:04.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket] to 123
+[24Aug2025 14:03:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has completed the challenge [Free Willy]
+[24Aug2025 14:03:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 fell from a high place
+[24Aug2025 14:05:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has made the advancement [The Parrots and the Bats]
+[24Aug2025 14:05:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 was slain by Zombie
+[24Aug2025 14:06:58.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket] to 123
