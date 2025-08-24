@@ -1185,3 +1185,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [24Aug2025 14:05:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has made the advancement [The Parrots and the Bats]
 [24Aug2025 14:05:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 was slain by Zombie
 [24Aug2025 14:06:58.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket] to 123
+[24Aug2025 14:09:35.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has made the advancement [Take Aim]
+[24Aug2025 14:09:41.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 fell from a high place
+[24Aug2025 14:10:06.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bucket] to 123
+[24Aug2025 14:12:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 has made the advancement [Suit Up]
