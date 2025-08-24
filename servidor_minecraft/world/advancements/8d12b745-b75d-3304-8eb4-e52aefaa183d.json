@@ -818,6 +818,8 @@
       "minecraft:skeleton": "2025-08-24 13:57:12 +0000",
       "minecraft:vindicator": "2025-08-24 15:22:12 +0000",
       "minecraft:spider": "2025-08-23 23:36:46 +0000",
+      "minecraft:witch": "2025-08-24 20:54:33 +0000",
+      "minecraft:cave_spider": "2025-08-24 20:55:12 +0000",
       "minecraft:stray": "2025-08-23 23:28:53 +0000",
       "minecraft:zombie": "2025-08-24 00:53:46 +0000"
     },
@@ -2952,6 +2954,48 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-24 19:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-24 21:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 20:54:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-24 21:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 20:54:44 +0000"
     },
     "done": true
   },
