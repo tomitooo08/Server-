@@ -217,3 +217,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:set_components'
 [24Aug2025 01:06:52.751] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17, l='ServerLevel[world]', x=-261.70, y=61.05, z=-316.99] died, message: 'Fisherman drowned'
 [24Aug2025 01:08:13.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 fell from a high place
 [24Aug2025 01:14:59.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/16, l='ServerLevel[world]', x=-258.31, y=61.05, z=-317.30] died, message: 'Fisherman drowned'
+[24Aug2025 01:17:52.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 123 lost connection: Disconnected
+[24Aug2025 01:17:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 left the game
