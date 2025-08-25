@@ -2085,7 +2085,8 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-08-24 15:11:03 +0000",
-      "pillager_outpost": "2025-08-25 21:12:24 +0000"
+      "pillager_outpost": "2025-08-25 21:12:24 +0000",
+      "illager_camp": "2025-08-25 21:21:59 +0000"
     },
     "done": false
   },
@@ -2635,9 +2636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-25 21:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-08-25 21:14:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-25 21:25:00 +0000"
     },
     "done": true
   },

@@ -622,3 +622,6 @@ java.net.http.HttpTimeoutException: request timed out
 [25Aug2025 21:20:08.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
 [25Aug2025 21:20:08.726] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
 [25Aug2025 21:23:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas3122> esta viendo mi pantalla=?
+[25Aug2025 21:25:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 has made the advancement [Mine? Mine? Mine?]
+[25Aug2025 21:32:00.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@331cca18[id=<null>,name=julian20594xx,properties={},legacy=false] (/127.49.21.17:39619) lost connection: Disconnected
+[25Aug2025 21:32:18.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c35b7fa[id=<null>,name=julian20594xx,properties={},legacy=false] (/127.49.21.17:46927) lost connection: Disconnected
