@@ -699,3 +699,7 @@ java.net.http.HttpTimeoutException: request timed out
 [25Aug2025 21:49:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas3122> pongase las gafas
 [25Aug2025 21:51:33.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas3122> la pc esta tirando humo
 [25Aug2025 21:53:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomas3122: Teleported 123 to tomas3122]
+[25Aug2025 21:56:03.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas3122 lost connection: Disconnected
+[25Aug2025 21:56:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 left the game
+[25Aug2025 21:56:28.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 123 lost connection: Disconnected
+[25Aug2025 21:56:28.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 left the game

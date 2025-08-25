@@ -4250,3 +4250,13 @@ java.net.http.HttpTimeoutException: request timed out
 [25Aug2025 21:49:18.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Aug2025 21:51:33.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tomas3122> la pc esta tirando humo
 [25Aug2025 21:53:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomas3122: Teleported 123 to tomas3122]
+[25Aug2025 21:54:18.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 21:54:18.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 21:56:03.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomas3122 lost connection: Disconnected
+[25Aug2025 21:56:03.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomas3122 left the game
+[25Aug2025 21:56:28.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 123 lost connection: Disconnected
+[25Aug2025 21:56:28.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 123 left the game
+[25Aug2025 21:59:18.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 21:59:18.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Aug2025 22:04:18.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Aug2025 22:04:18.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
