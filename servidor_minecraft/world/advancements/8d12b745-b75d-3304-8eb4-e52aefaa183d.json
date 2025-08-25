@@ -3235,27 +3235,39 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-25 20:42:57 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-25 20:36:31 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-25 20:36:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-08-25 20:36:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-08-25 20:39:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-25 20:42:57 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
-      "tick": "2025-08-25 20:36:31 +0000"
+      "has_boat": "2025-08-25 20:42:57 +0000"
     },
     "done": true
   },
@@ -3268,18 +3280,6 @@
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-25 20:42:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2025-08-25 20:36:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-08-25 20:46:13 +0000"
     },
     "done": true
   },
@@ -3301,15 +3301,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2025-08-25 20:39:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-25 20:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-25 20:46:13 +0000"
     },
     "done": true
   },
